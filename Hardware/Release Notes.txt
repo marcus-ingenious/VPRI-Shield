@@ -1,0 +1,10 @@
+Version 1.1 - Oct 10th, 2017
+- Added pins inbetween LED-resistors and MCU
+- Increased space around 2mm drilling holes
+- Moved description of exemplary LED resistor calculation
+- Added + - labels next to breadboard link-up pins
+- Added license information
+- Increased space around button pins
+
+Version 1.0 - Sep 9th, 2017
+- Initial release
