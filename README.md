@@ -1,2 +1,2 @@
-# VPRI-Shield for Arduino Nano or compatible Boards
-Versatile Shield for Prototyping and Implementation of Arduino Nano Projects
+# VPRI-Shield 
+Versatile Shield for Prototyping and Implementation with Arduino Nano or compatible boards
